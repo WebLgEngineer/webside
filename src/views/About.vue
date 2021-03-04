@@ -77,7 +77,7 @@
                 </div>
           
                 <!--Vue-->
-                <h6 class="card-subtitle mt-3 mb-1 text-secondary"><i class="fab fa-vuejs mr-1"></i>Vue3</h6>
+                <h6 class="card-subtitle mt-3 mb-1 text-secondary"><i class="fab fa-vuejs mr-1"></i>Vue.js</h6>
                 <div class="row">
                   <div class="col-md-6">
                     <ul class="list-group list-group-flush list-group-style fz-6">

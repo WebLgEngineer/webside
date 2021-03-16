@@ -9,7 +9,7 @@
             </div>
             <div class="col-9 col-md-12 mt-md-3 text-md-center">
               <p class="mb-2 mb-md-3"><i class="fas fa-envelope"></i> WebLgEngineer@gmail.com</p>
-              <p class="mb-0"><i class="fas fa-phone"></i> 0987-056-509</p>
+              
             </div>
           </div>
         </div>

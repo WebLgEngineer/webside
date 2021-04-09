@@ -158,8 +158,8 @@
         <h2 class="font-weight-bold fz-5 fz-md-4">#短期目標</h2>
         <p class="text-justify fz-6 fz-md-5 mt-md-3 pl-4">
           1.將一種JS框架靈活運用在各種專案上。<br>
-          3.增加自己的英文能力。<br>
-          4.持續加強自己的英文打字速度    
+          2.增加自己的英文能力。<br>
+          3.持續加強自己的英文打字速度    
         </p>
       </section>
 

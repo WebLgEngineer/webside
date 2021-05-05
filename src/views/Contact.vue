@@ -14,22 +14,19 @@
           </div>
         </div>
         <div class="col-md-6 mt-3 mt-md-0">
-          <form class="">
+          <form class="" id="mail-form" action="https://formspree.io/f/mzbydyjd" method="POST">
+
             <div class="form-group">
               <label for="staticEmail" class="">Email:</label>
-              <input type="email" class="form-control" id="staticEmail" placeholder="email@example.com">
+              <input type="email" name="email" class="form-control" id="staticEmail" placeholder="your@email.com">
             </div>
-            <div class="form-group">
-              <label for="subject" class="">主旨:</label>
-              <input type="text" class="form-control" id="subject">
-            </div>
+            
               <div class="form-group">
-                <label for="exampleFormControlTextarea1">內容:</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                <label for="exampleFormControlTextarea1">Message:</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" name="message"></textarea>
               </div>
             <div class="text-right">
-              <span class="text-danger mr-3">目前未串接</span>
-              <button type="submit" class="btn btn-primary">送出</button>
+              <button type="submit" class="btn btn-primary" id="my-form-button">送出</button>
             </div>  
           </form>
         </div>
@@ -37,3 +34,4 @@
     </div>
   </section>
 </template>
+
